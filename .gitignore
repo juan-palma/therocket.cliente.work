@@ -4,3 +4,5 @@ env
 .env
 .env.remoto
 .env.local
+
+/.well-known/
