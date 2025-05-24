@@ -48,7 +48,7 @@
 
 		<meta itemprop="name" content="The Rocket TV | Plataforma de Streaming y pagos por evento" />
 		<meta itemprop="description" content="Plataforma de Streaming y pagos por evento" />
-		<meta itemprop="image" content="https://therocket.cliente.work/public/img/facebook_web_img_article.jpg" />
+		<meta itemprop="image" content="https://therocket.cliente.work/assets/public/img/facebook_web_img_article.jpg" />
 		
 		<meta property="og:type" content="WEBSITE" />
 		<meta property="og:url" content="https://therocket.cliente.work" />
@@ -57,7 +57,7 @@
 				
 		<meta property="og:title" content="The Rocket TV | Plataforma de Streaming y pagos por evento" />
 		<meta property="og:description" content="Plataforma de Streaming y pagos por evento" />
-		<meta property="og:image" content="https://therocket.cliente.work/public/img/facebook_web_img_article.jpg" />
+		<meta property="og:image" content="https://therocket.cliente.work/assets/public/img/facebook_web_img_article.jpg" />
 		<meta property="og:image:alt" content="Portada del sitio web principal" />
 		<meta property="og:image:type" content="image/jpeg" />
 		
@@ -65,7 +65,7 @@
 		<meta name="twitter:site" content="@TU-USUARIO-TWITER" />
 		<meta name="twitter:title" content="The Rocket TV | Plataforma de Streaming y pagos por evento" />
 		<meta name="twitter:description" content="Plataforma de Streaming y pagos por evento" />
-		<meta name="twitter:image:src" content="https://therocket.cliente.work/public/img/facebook_web_img_article.jpg" />
+		<meta name="twitter:image:src" content="https://therocket.cliente.work/assets/public/img/facebook_web_img_article.jpg" />
 		<meta name="twitter:domain" content="therocket.cliente.work/" />
 		
 		
