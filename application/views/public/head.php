@@ -43,22 +43,30 @@
 		<!-- ::: meta facebook dominio ::: -->
 		<meta name="facebook-domain-verification" content="nh3drzz1qmok4y5xjacmvpuw3nk4om" />
 		<!-- Facebook Pixel Code -->
-		<script>
-		!function(f,b,e,v,n,t,s)
-		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-		n.queue=[];t=b.createElement(e);t.async=!0;
-		t.src=v;s=b.getElementsByTagName(e)[0];
-		s.parentNode.insertBefore(t,s)}(window, document,'script',
-		'https://connect.facebook.net/en_US/fbevents.js');
-		fbq('init', '167894728587237');
-		fbq('track', 'PageView');
-		</script>
-		<noscript><img height="1" width="1" style="display:none"
-		src="https://www.facebook.com/tr?id=167894728587237&ev=PageView&noscript=1"
-		/></noscript>
-		<!-- End Facebook Pixel Code -->
+
+
+
+		<meta itemprop="name" content="The Rocket TV | Plataforma de Streaming y pagos por evento" />
+		<meta itemprop="description" content="Plataforma de Streaming y pagos por evento" />
+		<meta itemprop="image" content="https://therocket.cliente.work/public/img/facebook_web_img_article.jpg" />
+		
+		<meta property="og:type" content="WEBSITE" />
+		<meta property="og:url" content="https://therocket.cliente.work" />
+		<meta property="og:site_name" content="The Rocket TV | Plataforma de Streaming y pagos por evento" />
+		<!-- <meta property="fb:app_id" content="ID-FACEBOOK-APP" /> -->
+				
+		<meta property="og:title" content="The Rocket TV | Plataforma de Streaming y pagos por evento" />
+		<meta property="og:description" content="Plataforma de Streaming y pagos por evento" />
+		<meta property="og:image" content="https://therocket.cliente.work/public/img/facebook_web_img_article.jpg" />
+		<meta property="og:image:alt" content="Portada del sitio web principal" />
+		<meta property="og:image:type" content="image/jpeg" />
+		
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:site" content="@TU-USUARIO-TWITER" />
+		<meta name="twitter:title" content="The Rocket TV | Plataforma de Streaming y pagos por evento" />
+		<meta name="twitter:description" content="Plataforma de Streaming y pagos por evento" />
+		<meta name="twitter:image:src" content="https://therocket.cliente.work/public/img/facebook_web_img_article.jpg" />
+		<meta name="twitter:domain" content="therocket.cliente.work/" />
 		
 		
 		<!-- <script src="//code.jivosite.com/widget/DaIHNyq3st" async></script> -->
